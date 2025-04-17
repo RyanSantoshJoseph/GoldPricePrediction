@@ -2,7 +2,9 @@
 
 A machine learning project to predict gold prices based on multiple financial indicators such as stock indices, oil prices, and silver prices. This project is built with Python in a Jupyter Notebook environment.
 
-![gold-banner]([https://images.unsplash.com/photo-1579635227642-ec9b662b4c59](https://unsplash.com/photos/gold-and-black-metal-tool-iYsrkq5qq0Q)) <!-- Optional: Add your own banner -->
+![gold-banner](https://images.unsplash.com/photo-1579635227642-ec9b662b4c59?ixlib=rb-4.0.3&auto=format&fit=crop&w=1350&q=80)
+
+ <!-- Optional: Add your own banner -->
 
 ---
 
