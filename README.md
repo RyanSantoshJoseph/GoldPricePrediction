@@ -18,7 +18,6 @@ Gold is a valuable asset and is influenced by various macroeconomic factors. Thi
 
 - `Gold_Price_Prediction.ipynb` - Main notebook with code and analysis.
 - `README.md` - This documentation.
-- `requirements.txt` *(optional)* - Python dependencies.
 
 ---
 
